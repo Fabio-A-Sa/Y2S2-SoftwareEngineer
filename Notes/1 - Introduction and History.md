@@ -83,7 +83,7 @@ Os maiores conhecedores da área na altura permitiram-se escrever a síntese e e
 
 - PQ - Participação nas aulas e quizzes de aula;
 - TP - Trabalho prático de grupo, a aplicação mobile da Uni;
-- EF - Exame FinalM;
+- EF - Exame Final;
 
 #### Fórmula
 
