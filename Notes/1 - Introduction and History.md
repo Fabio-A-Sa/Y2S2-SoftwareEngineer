@@ -77,3 +77,17 @@ Os maiores conhecedores da área na altura permitiram-se escrever a síntese e e
 5. Scrup
 6. XP
 
+## Funcionamento da disciplina
+
+#### A nota final será:
+
+- PQ - Participação nas aulas e quizzes de aula;
+- TP - Trabalho prático de grupo, a aplicação mobile da Uni;
+- EF - Exame FinalM;
+
+#### Fórmula
+
+```python
+def grade(PQ, TP, EF):
+    return round(min(0.1 * PQ + 0.55 * TP + 0.35 * EF, EF + 4), 0)
+```
