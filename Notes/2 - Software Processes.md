@@ -31,7 +31,11 @@ Todos os processos e atividades são planeados previamente com muita antecedênc
 O planeamento é incremental e é fácil de modificar o processo para refletir em tempo real as novas exigências do utilizador final, ao contrário do anterior. Exemplo: eXtrem Programming. 
 
 #### Nota:
-Na prática, muitos dos modelos de processos são uma mistura dos dois casos. Obviamente, não existe um modelo certo ou errado, mas existem alguns mais indicados para cada caso.
+Na prática, muitos dos modelos de processos são uma mistura dos dois casos. Obviamente, não existe um modelo certo ou errado, mas existem alguns mais indicados para cada caso. Tipos de atividades de manutenção de software:
+
+- Corrective - um simples bug fixing
+- Adaptive - adapt to new platforms, technologies
+- Perfective - new functinalities
 
 ## Validação e verificação de Software
 
@@ -40,3 +44,20 @@ Na prática, muitos dos modelos de processos são uma mistura dos dois casos. Ob
 3. System testing - foca em problemas emergentes, de performence ou utilização;
 4. Acceptance testing - todo o sistema é testado para saber se os requisitos e as necessidades do utilizador final são atendidas;
 
+## Software Process Models
+
+### Waterfall
+
+Modelo plan-driven. Fases separadas de espeficicação e desenvolvimento.
+
+### Incremental development and delivery
+
+A espeficicação, desenvolvimento e validação são incrementais. Pode ser tanto plan-driven ou agile.
+
+### Integration and configuration
+
+O sistema é montado a partir dos componentes configuráveis existentes. Pode ser tanto plan-driven ou agile.
+
+### Software prototyping
+
+Não é atualmente um modelo mas sim uma abordagem para lidar com a incerteza. Testa pequenas proporções do produto final, sem tantas features por exemplo, para testar se é viável.
