@@ -7,7 +7,7 @@ Conjunto estruturado de atividades necessárias para desenvolver um sistema de s
 3. Validação: verificar se o que software faz o que o utilizador pretende;
 4. Evolução: modificar o sistema para reponder às necessidades do utilizador final;
 
-### SDLC: Software development life cycle
+### SDLC: Software Development Life Cycle
 
 1. Planning
 2. Analysis
@@ -18,6 +18,7 @@ Conjunto estruturado de atividades necessárias para desenvolver um sistema de s
 
 ### O que define os processos de software?
 
-- Eficiência: incorporando as melhores práticas, estruturas e regras de trabalho, foco naquilo que precisa ser feito em primeira instância;
-- Consistência: os resultados têm de parecer similares e o trabalho torna-se assim previsível;
-- Fazer o básico para melhoria futura: verificar as fases do trabalho mais demoradas e ineficazes, ao identificar o problema dá uma boa oportunidade de melhoria;
+- `Eficiência`: incorporando as melhores práticas, estruturas e regras de trabalho, foco naquilo que precisa ser feito em primeira instância;
+- `Consistência`: os resultados têm de parecer similares e o trabalho torna-se assim previsível;
+- `Fazer o básico para melhoria futura`: verificar as fases do trabalho mais demoradas e ineficazes, ao identificar o problema dá uma boa oportunidade de melhoria;
+
