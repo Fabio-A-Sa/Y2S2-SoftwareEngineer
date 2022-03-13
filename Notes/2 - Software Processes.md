@@ -33,3 +33,10 @@ O planeamento é incremental e é fácil de modificar o processo para refletir e
 #### Nota:
 Na prática, muitos dos modelos de processos são uma mistura dos dois casos. Obviamente, não existe um modelo certo ou errado, mas existem alguns mais indicados para cada caso.
 
+## Validação e verificação de Software
+
+1. Unit testing - testa os componentes individuais;
+2. Integration testing - testa os componentes a funcionarem entre si;
+3. System testing - foca em problemas emergentes, de performence ou utilização;
+4. Acceptance testing - todo o sistema é testado para saber se os requisitos e as necessidades do utilizador final são atendidas;
+
