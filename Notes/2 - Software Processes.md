@@ -109,4 +109,21 @@ Não é atualmente um modelo mas sim uma abordagem para lidar com a incerteza. T
 
 ### 1 - Inception
 
-Estabelecer o escopo do projecto e as suas condições limite, incluindo uma visualização operacional
+Estabelecer o escopo do projecto e as suas condições limite, incluindo uma visualização operacional. Estimar potenciais riscos e preparar todo o suporte de desenvolvimento do projecto.
+
+### 2 - Elaboration
+
+Definir a arquitetura com base na informaçção obtida pelos use cases que direcionam as decisões. Definir as iterações do projecto e selecionar os componentes potenciais para criação, reutilização e compra, bem como avaliar o custo com confiança. 
+
+### 3 - Construction
+
+Controlo e otimização do processo. Há desenvolvimento completo de componentes e testagem seguindo um determinado critério. Avaliação de lançamentos de produtos em relação aos critérios de aceitação para visão.
+
+### 4 - Transition
+
+Executar os planos de deploy, finalizar o material para o utilizador final e testar tudo no ambiente final. Criar releases e ao obter feedback de uma parte dos utilizadores, tornar o produto disponível para todos.
+<br>
+
+# 2.2 - eXtrem Programming
+
+Desenvolvido por Kent Beck nos anos 90
