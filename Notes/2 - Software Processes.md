@@ -48,11 +48,13 @@ Na prática, muitos dos modelos de processos são uma mistura dos dois casos. Ob
 
 ### Waterfall
 
-Modelo plan-driven. Fases separadas de espeficicação e desenvolvimento.
+Modelo plan-driven. Fases separadas de espeficicação e desenvolvimento, onde há uma progressão assim que uma fase fica completa. Não é flexível, pelo que tem-se que estruturar o plan-driven sempre que houver novas especificações do cliente. <br>
+É normalmente usado para grandes sistemas de engenharia onde o sistema é desenvolvido em vários locais em separado.
 
 ### Incremental development and delivery
 
-A espeficicação, desenvolvimento e validação são incrementais. Pode ser tanto plan-driven ou agile.
+A espeficicação, desenvolvimento e validação são incrementais. Pode ser tanto plan-driven ou agile. <br>
+Parecido com o Waterfall mas pode-se voltar atrás para um ou dois ajustes noutros passos. Exemplo: **spiral**, a usar no trabalho prático desta cadeira durante todo o semestre.
 
 ### Integration and configuration
 
