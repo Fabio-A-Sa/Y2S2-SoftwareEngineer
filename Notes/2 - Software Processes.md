@@ -126,4 +126,4 @@ Executar os planos de deploy, finalizar o material para o utilizador final e tes
 
 # 2.2 - eXtrem Programming
 
-Desenvolvido por Kent Beck nos anos 90
+Desenvolvido por Kent Beck nos anos 90. É uma abordagem para pequenas e médias empresas para que o software seja fácil e rápido de moldar para cumprir novos requisitos.
