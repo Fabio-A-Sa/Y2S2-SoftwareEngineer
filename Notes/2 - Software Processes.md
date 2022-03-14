@@ -126,4 +126,27 @@ Executar os planos de deploy, finalizar o material para o utilizador final e tes
 
 # 2.2 - eXtrem Programming
 
-Desenvolvido por Kent Beck nos anos 90. É uma abordagem para pequenas e médias empresas para que o software seja fácil e rápido de moldar para cumprir novos requisitos.
+Desenvolvido por Kent Beck nos anos 90. É uma abordagem para pequenas e médias empresas para que o software seja fácil e rápido de moldar para cumprir novos requisitos, pois o planeamento é feito para um curto prazo futuro. O custo de mudança é constante. <br>
+Iterar, projectar, redesenhar, codificar e testar com frequência, para manter o cliente envolvido e obter feedback para antecipar pormenores que escapam à especificação. 
+
+### Valores fundamentais do XP
+
+1. Communication: cara a cara, preferencialmente, e de forma constante com reuniões diárias;
+2. Simplicity: "Do the simplest thing that could possibly work" and "You ain't gonna need it";
+3. Feedback: obtê-lo com diferentes escalas de tempo, através de unit tests e através da comunicação com os clientes;
+4. Courage: coragem de aceitar o feedback, de deitar fora código (os protótipos) e refactoração do sistema;
+
+### 12 XP Practices
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
