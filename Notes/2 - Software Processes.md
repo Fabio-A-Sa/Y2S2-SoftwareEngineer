@@ -56,10 +56,32 @@ Modelo plan-driven. Fases separadas de espeficicação e desenvolvimento, onde h
 A espeficicação, desenvolvimento e validação são incrementais. Pode ser tanto plan-driven ou agile. <br>
 Parecido com o Waterfall mas pode-se voltar atrás para um ou dois ajustes noutros passos. Exemplo: **spiral**, a usar no trabalho prático desta cadeira durante todo o semestre.
 
+#### Benefícios:
+
+- O custo de modificação por modificação de critérios é atenuado;
+- Menos documentação modificada;
+- Mais feedback, logo menos riscos de falhas;
+- Cada incremento funciona como um protótipo que ajuda a manipular outros requisitos;
+
+#### Desvantagens:
+
+- A estrutura tende-se a degradar conforme os novos incrementos vão surgindo;
+- Mais tempo passado em refactoring;
+- O nível de reúso de código pode não ser o melhor;
+
 ### Integration and configuration
 
-O sistema é montado a partir dos componentes configuráveis existentes. Pode ser tanto plan-driven ou agile.
+O sistema é montado a partir dos componentes configuráveis existentes. Pode ser tanto plan-driven ou agile e contém várias versões até chegar a uma final e completamente testada. 
+
+- Menos software é desenvolvido do zero;
+- Rápido deployment do sistema;
+- O sistema pode não estar a par das necessidades reais do utilizador, pois novos requisitos são inevitáveis;
+- Perda de controlo na evolução da reutilização dos elementos do sistema;
 
 ### Software prototyping
 
 Não é atualmente um modelo mas sim uma abordagem para lidar com a incerteza. Testa pequenas proporções do produto final, sem tantas features por exemplo, para testar se é viável.
+
+
+# 2.1 - Rational Unified Process
+
