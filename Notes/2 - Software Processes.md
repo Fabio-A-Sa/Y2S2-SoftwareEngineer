@@ -81,7 +81,32 @@ O sistema é montado a partir dos componentes configuráveis existentes. Pode se
 ### Software prototyping
 
 Não é atualmente um modelo mas sim uma abordagem para lidar com a incerteza. Testa pequenas proporções do produto final, sem tantas features por exemplo, para testar se é viável.
-
+<br>
 
 # 2.1 - Rational Unified Process
 
+É um processo iterativo e incremental, desenvolvido com UML (Use-Case Diagram) com base em use-cases (identificação de cenários que guiam o desenvolvimento da aplicação a partir dos requisitos). Ajuda a manter uma paralelização, reutilização e manutenção através da robustez da arquitetura. Conteúdos:
+
+1. Business Modeling
+2. Requisitos
+3. Analysis and Desing
+4. Implementatiom Testing
+5. Deployment
+6. Configuration and change management
+7. Project Management Environment
+
+### Use-Case Diagram
+
+<p align = "center" >
+  <img 
+       title = "Use case diagram"
+       src = "..//Images//UseCase.png" 
+       alt = "use case diagram" 
+       />
+</p>
+
+## Fases
+
+### 1 - Inception
+
+Estabelecer o escopo do projecto e as suas condições limite, incluindo uma visualização operacional
