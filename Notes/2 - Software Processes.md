@@ -138,15 +138,16 @@ Iterar, projectar, redesenhar, codificar e testar com frequência, para manter o
 
 ### 12 XP Practices
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
+1. Planning game;
+2. Small Releases;
+3. System Metaphor;
+4. Simple Design;
+5. Test Driven Development;
+6. Refactoring;
+7. Pair programming;
+8. Collective Code Ownership;
+9. Continuous Integration;
+10. Sustainable Pace;
+11. On-Site Customer;
+12. Coding Standards;
+
