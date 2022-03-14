@@ -44,4 +44,36 @@ Na verdade, um pequeno inseto que foi descoberto num papel importante para a pro
 ### 1956 - Primeiro processo de desenvolvimento de software documentado
 Também conhecido como SAGE (Semi-automatic Ground Environment Air Defense System)
 
-###
+### 1960 - Missão Apollo e Margaret Hamilton
+Hamilton desenvolveu junto da sua equipa o software que levou o homem à Lua, com incríveis 4 kb de memória RAM.
+
+### 1968 - Edgar Dijkstra
+Discurso na *Comunications of the ACM*, Dijkstra venceu o Turing Award em 1972
+
+### 1968 - Primeira conferência de Engenharia de Software
+Na NATO Science Committee
+
+### 1985 a 1987 - Acidente Therac-25
+Uma máquina mal calibrada provoca overdose de radiação em pacientes e pelo menos cinco morreram. Ocorreu devido a um erro de software, o **race condition**.
+
+### 1975 / 1986 - Fred Brooks
+Publicou o livro “No Silver Bullet – Essence and Accident in Software Engineering”. Venceu o prémio ACM Turing Machine em 1999.
+
+### 1990 a 1994 - The Last Method War
+Uma "guerra" de fabricantes e inventores para escolher a melhor linguagem para estruturar o software e as suas implicações. Em 2005 começaram a aparecer as melhores versões. Exemplos: UML, RUP, Unifieed Process, que serão exploradas à frente.
+
+### 1996 - Ariane 5 explosion
+A pior perda de dinheiro devido a uma falha de software em toda a história. Cerca de 7 bilhões de dólares e 10 anos de estudo destruídos devido a uma conversão com perdas de 64-bit para 16-bit.
+
+### 2001 - Agile Manifesto
+Os maiores conhecedores da área na altura permitiram-se escrever a síntese e essência da engenharia de software, enfatisando os parâmetros mais pertinentes. O manifesto está disponível [aqui](http://agilemanifesto.org/).
+
+## Principais processos de Software existentes:
+
+1. Waterfall
+2. Iterative
+3. Spiral
+4. RUP
+5. Scrup
+6. XP
+
