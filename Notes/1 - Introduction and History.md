@@ -35,3 +35,13 @@ Procura, design, desenvolvimento e teste de sistemas de software, compiladores e
 - [x] Mathematical Foundations
 - [x] Engineering Foundations
 
+## História da Engenharia de Software
+
+### 1945 - Primeiro Bug
+
+Na verdade, um pequeno inseto que foi descoberto num papel importante para a programação na altura da Guerra Mundial. Um computador ocupava salas e salas, pelo que encontrar alguma mosca no meio de componentes era comum e obviamente atrapalhava o processo.
+
+### 1956 - Primeiro processo de desenvolvimento de software documentado
+Também conhecido como SAGE (Semi-automatic Ground Environment Air Defense System)
+
+###
