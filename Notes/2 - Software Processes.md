@@ -150,6 +150,3 @@ Iterar, projectar, redesenhar, codificar e testar com frequência, para manter o
 10. Sustainable Pace - ter tempos definidos e se ultrapassar é porque tem algo errado com o processo de seleção de atividades;
 11. On-Site Customer - toda a equipa tem acesso ao lado do consumidor, de forma a saber as suas necessidades em primeira mão;
 12. Coding Standards - todas as convenções de programação devem ser seguidas por todos;
-
-
-
