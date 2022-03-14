@@ -19,3 +19,19 @@ O software aparece em diversas áreas, como no maior avião do mundo, no sistema
 Procura, design, desenvolvimento e teste de sistemas de software, compiladores e redes de computadores para diversas indústras e comunicações. É uma aplicação sistemática científica de métodos aplicados aos mais diversos softwares. <br>
 *"The application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software”* — IEEE Standard Glossary of Software Engineering Terminology.
 
+### Áreas da Engenharia de Software
+
+- [x] Software Requirements
+- [x] Software Design
+- [x] Software Construction
+- [x] Software Testing
+- [x] Software Maintenance
+- [x] Software Configuration Management
+- [x] Software Engineering Models and Methods
+- [x] Software Quality
+- [x] Software Engineering Professional Practice
+- [x] Software Engineering Economics
+- [x] Compution Foundations
+- [x] Mathematical Foundations
+- [x] Engineering Foundations
+
