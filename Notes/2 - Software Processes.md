@@ -138,16 +138,18 @@ Iterar, projectar, redesenhar, codificar e testar com frequência, para manter o
 
 ### 12 XP Practices
 
-1. Planning game;
-2. Small Releases;
-3. System Metaphor;
-4. Simple Design;
-5. Test Driven Development;
-6. Refactoring;
-7. Pair programming;
-8. Collective Code Ownership;
-9. Continuous Integration;
-10. Sustainable Pace;
-11. On-Site Customer;
-12. Coding Standards;
+1. Planning game - os utilizadores decidem o escopo (*user stories*), as prioridades, o conteúdo e as datas, e os desenvolvedores adaptam-se às exigências;
+2. Small Releases - começar pela feature mais relevante e útil e ir adicionando novas todo o tempo, sendo do tipo user story driven;
+3. System Metaphor - Não muito usado. Definir o sistema tendo por base uma metáfora;
+4. Simple Design - código simples para mais facilmente encontrar falhas;
+5. Test Driven Development - antes do código, os seus testes. Ajuda a pensar na estrutura e no que realmente o código necessita;
+6. Refactoring - um desing improvement, sem modificar o comportamento do código;
+7. Pair programming - ajudar mutuamente a equipa de forma a que todos no final saibam o mesmo, dá um upgrade na qualidade do código e previne defeitos;
+8. Collective Code Ownership - todos devem ter acesso a todo o código;
+9. Continuous Integration - com base em testes verificamos que o código não sofreu problemas ao juntar novos módulos;
+10. Sustainable Pace - ter tempos definidos e se ultrapassar é porque tem algo errado com o processo de seleção de atividades;
+11. On-Site Customer - toda a equipa tem acesso ao lado do consumidor, de forma a saber as suas necessidades em primeira mão;
+12. Coding Standards - todas as convenções de programação devem ser seguidas por todos;
+
+
 
