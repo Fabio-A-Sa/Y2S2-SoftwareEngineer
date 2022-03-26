@@ -35,3 +35,20 @@ Atuam como restrições ao sistema. Como por exemplo "o sistema tem um período 
 - Clientes da organização que utiliza o sistema;
 - Os que influenciam no sistema, direta ou indiretamente;
 
+## Processo da Engenharia de Software
+
+#### 1 - Elicitation / Elicitação
+
+Interagir com os `stakeholders` e outras organizações que irão utilizar o produto para descobrir as suas verdadeiras necessidades e requisitos;
+
+#### 2 - Analysis / Análise
+
+Arranjar da melhor forma a informação coletada, compreensível, consistente e clara, para que haja uma lista de prioridades para cumprir com os requisitos;
+
+#### 3 - Specification / Especificação
+
+Produzir a documentação dos requisitos com o detalhe apropriado, dependendo do contexto;
+
+#### 4 - Validation / Validação
+
+Garantir que a documentação gerada no passo anterior faz cumprir os objectivos da equipa e do negócio;
