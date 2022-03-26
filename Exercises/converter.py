@@ -13,8 +13,6 @@ def begin():
     print("     solution CHAR", end = "\n")
     print(");", end = "\n\n")
 
-def end(): print("SELECT * FROM Questions;")
-
 def convert():
 
     begin()
@@ -28,8 +26,6 @@ def convert():
                     format("','".join(line.strip().split(','))), end = "\n")
 
     data.close()
-
-    end()
 
 if __name__ == "__main__":
     convert()
