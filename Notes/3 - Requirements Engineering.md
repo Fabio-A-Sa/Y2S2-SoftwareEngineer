@@ -21,3 +21,17 @@ Descrevem as funções que o software tem de executar, também conhecido como as
 
 Atuam como restrições ao sistema. Como por exemplo "o sistema tem um período máximo de down de 8 horas por ano - também conhecido como disponibilidade" ou "o produto deve ser desenvolvido em Java".
 
+### Algumas características de qualidade
+
+- Manutenção (modularidade, reusabilidade, testável ou não...);
+- Segurança (integridade, autenticidade, confiabilidade...);
+- Usabilidade (simples, operacional, proteção contra erros, acessibilidade...);
+
+### Exemplos de stakeholders - interessados
+
+- Quem paga pelo sistema - clientes;
+- Utilizadores finais;
+- Pessoas responsáveis por manter o sistema;
+- Clientes da organização que utiliza o sistema;
+- Os que influenciam no sistema, direta ou indiretamente;
+
