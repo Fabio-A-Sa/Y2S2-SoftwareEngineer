@@ -64,12 +64,12 @@ Garantir que a documentação gerada no passo anterior faz cumprir os objectivos
 
 Deve incluir respostas às perguntas "Como? Quem? Porquê?" e seguir a tipologia INVEST:
 
-I - Independent, de umas das outras <br>
-N - Negotiable <br>
-V - Valuable <br>
-E - Estimable <br>
-S - Small <br>
-T - Testable
+`I` - Independent, de umas das outras <br>
+`N` - Negotiable <br>
+`V` - Valuable <br>
+`E` - Estimable <br>
+`S` - Small <br>
+`T` - Testable
 
 Exemplo: "`As a` automobile driver, `I want to be able to` remotely start my car, `so that it` will be warmed up by time I get to it"
 
