@@ -116,3 +116,13 @@ O esquema deve ser seguido de uma tabela onde se explora os seguintes tópicos:
 
 # Domain Models
 
+
+
+<p align = "center" >
+  <img 
+       title = "Domain model"
+       src = "..//Images//DomainModel.png" 
+       alt = "domain model" 
+       />
+    <h4 align = "center">Exemplo</h4><br>
+</p>
