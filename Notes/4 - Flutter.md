@@ -50,8 +50,8 @@ class MyApp extends StatelessWidget {
 
     @override
     Widget build(BuildContext context) {
-        run MaterialApp (
-
+        return MaterialApp (
+            // constructor
         );
     }
 }
