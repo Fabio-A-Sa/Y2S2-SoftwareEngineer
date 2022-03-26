@@ -6,3 +6,9 @@ Um dos tópicos para o sucesso do projecto é a visão objectiva dos requisitos 
 
 ### Principais problemas da engenharia de requisitos:
 
+1. Escassa comunicação desenvolvedor-cliente;
+2. Conhecimentos implícitos;
+3. Crescimento do produto não controlado;
+4. Mudanças repentinas nos requisitos;
+
+### T
