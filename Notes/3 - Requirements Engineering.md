@@ -87,6 +87,6 @@ Then [ensure some outcomes or postconditions]
 
 Protótipo da aplicação, como um modelo primitivo do sistema. Acaba por ser barato, simples e rápido e dá para limar as arestas dos requisitos de acordo com o cliente. Há dois tipos
 
-1. Throw-away prototype: em papel ou em computador, mais baseado nos requisitos do que na implementação;
+1. Throw-away prototype: em papel ou em computador, mais baseado nos requisitos do que na implementação. Enquanto que em papel são mais rápidos e fáceis, mas menos fidedignos, em computador podem ser usados numa perspectiva evolutiva, embora exijam mais tempo, custo e conhecimento;
 2. Evolutionary prototype: apropriado para um desenvolvimento rápido e interativo com um grande envolvimento do utilizador;
 
