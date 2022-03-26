@@ -16,7 +16,7 @@
             $prep->execute(array());
             $rows = $prep->fetchAll();
             
-            echo "<form action='correction.php' method='get'>";
+            echo "<form action='correction.php' method='post'>";
             foreach ($rows as $row) {
                 echo "<section><h4>".$row['question']."</h4><ul>";
                 for ($i = 1 ; $i < 5 ; $i++) {

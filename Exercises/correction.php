@@ -10,7 +10,7 @@
     <body>
         <?php
 
-            $answers = $_GET;
+            $answers = $_POST;
 
             $db = new PDO('sqlite:dataBase.db'); 
 
