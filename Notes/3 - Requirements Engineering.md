@@ -39,7 +39,7 @@ Atuam como restrições ao sistema. Como por exemplo "o sistema tem um período 
 
 #### 1 - Elicitation / Elicitação
 
-Interagir com os `stakeholders` e outras organizações que irão utilizar o produto para descobrir as suas verdadeiras necessidades e requisitos;
+Interagir com os `stakeholders` e outras organizações que irão utilizar o produto para descobrir as suas verdadeiras necessidades e requisitos. As entrevistas podem ser abertas/não estruturadas (boas para o início da exploração) ou fechadas/estruturadas, para obter conhecimento mais fino através das questões dos desenvolvedores;
 
 #### 2 - Analysis / Análise
 
@@ -89,4 +89,3 @@ Protótipo da aplicação, como um modelo primitivo do sistema. Acaba por ser ba
 
 1. Throw-away prototype: em papel ou em computador, mais baseado nos requisitos do que na implementação. Enquanto que em papel são mais rápidos e fáceis, mas menos fidedignos, em computador podem ser usados numa perspectiva evolutiva, embora exijam mais tempo, custo e conhecimento;
 2. Evolutionary prototype: apropriado para um desenvolvimento rápido e interativo com um grande envolvimento do utilizador;
-
