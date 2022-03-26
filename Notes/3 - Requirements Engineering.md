@@ -101,6 +101,15 @@ Protótipo da aplicação, como um modelo primitivo do sistema. Acaba por ser ba
     <h4 align = "center">Exemplo</h4><br>
 </p>
 
+#### Extend 
+
+Indicam comportamentos adicionais aos casos-base, permitem destacar funcionalidades opcionais e distinguir o que é obrigatório. Os utilizadores só interagem com os casos base, que devem fazer sentido sozinhos. A seta é não preenchida, a tracejado e a apontar para os casos base. Exemplo: seta a apontar desde "escolha de lugares" até "compra de bilhetes".
+
+#### Include
+
+Quando vários casos partilham o mesmo comportamento comum, esse comportamento é isolado. A seta é não preenchida, a tracejado e a apontar para o caso em comum a várias entidades.
+
+<br>
 
 O esquema deve ser seguido de uma tabela onde se explora os seguintes tópicos:
 
