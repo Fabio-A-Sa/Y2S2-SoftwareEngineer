@@ -21,7 +21,7 @@
 
 #### 1 - Framework
 
-Biblioteca de alto nível, como widgets, rendering, animations... É uma user interface. Fazem um redesenho automático 
+Biblioteca de alto nível, como widgets, rendering, animations... É uma user interface. Fazem um redesenho automático. Uma aplicação em Flutter é criada à volta da interface.
 
 #### 2 - Engine
 
@@ -31,3 +31,28 @@ Código nativo que foi previamente compilado. São as funcionalidades de acesso 
 
 Parte do código que se conecta diretamente ao sistema operativo nativo, permitindo que a aplicação em Flutter funcione tal como uma aplicação nativa no sistema.
 
+## Widgets
+
+Objectos que fazem parte da User Interface e têm uma representação visual. Existem os `statefulWidget`, que são estáticos, e `statefullWidget`, que armazenam a informação.
+
+### Widget Tree
+
+A raiz representa a aplicação. As páginas da aplicação estão no nível 1 e os widgets são os filhos desse nós. Muito usadas nas tecnologias de mobile design, assim como o `diagrama de navegação`.
+
+## Code
+
+```dart
+import 'package:flutter'
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+
+    @override
+    Widget build(BuildContext context) {
+        run MaterialApp (
+
+        );
+    }
+}
+```
