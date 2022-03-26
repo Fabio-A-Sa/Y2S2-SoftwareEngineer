@@ -73,3 +73,13 @@ T - Testable
 
 Exemplo: "`As a` automobile driver, `I want to be able to` remotely start my car, `so that it` will be warmed up by time I get to it"
 
+# Acceptance Tests
+
+Os testes de aceitação são definidos pelo cliente para decidir requisitos e funcionalidades. Em processo ágil, mais do que um teste deve ser realizado com base num user story, atingindo o BDD(Behavior-Driven-Development). A estrutura é a seguinte:
+
+```gherkin
+Given [initial context or preconditions]
+When [event(s) occur(s)]
+Then [ensure some outcomes or postconditions]
+```
+
