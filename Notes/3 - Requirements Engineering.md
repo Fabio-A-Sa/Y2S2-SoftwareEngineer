@@ -89,3 +89,28 @@ Protótipo da aplicação, como um modelo primitivo do sistema. Acaba por ser ba
 
 1. Throw-away prototype: em papel ou em computador, mais baseado nos requisitos do que na implementação. Enquanto que em papel são mais rápidos e fáceis, mas menos fidedignos, em computador podem ser usados numa perspectiva evolutiva, embora exijam mais tempo, custo e conhecimento;
 2. Evolutionary prototype: apropriado para um desenvolvimento rápido e interativo com um grande envolvimento do utilizador;
+
+# Use Case Modeling
+
+<p align = "center" >
+  <img 
+       title = "Use case diagram"
+       src = "..//Images//UseCase.png" 
+       alt = "use case diagram" 
+       />
+    <h4 align = "center">Exemplo</h4>
+</p>
+
+
+O esquema deve ser seguido de uma tabela onde se explora os seguintes tópicos:
+
+|||
+| --- | --- |
+| *Name* | Purchase tickets online |
+| *Actor* |  Customer | 
+| *Description* | The customer purchases one or more tickets for an event, using an electronic payment method, having the option to choose places. |
+| *Preconditions* | - The customer has electronic payment means. <br> - The event has tickets available on-sale. |
+| *Postconditions* | - The customer gets the electronic tickets with a QR code. <br> - The customer is charged of the tickets’ cost, and the seller credited. <br> - Information of tickets sold & seats available for the event is updated. |
+| *Normal flow* | 1. The customer accesses the web page of the ticketing system.<br> 2. The system shows the list of events with tickets on-sale.<br> 3. The customer selects the event and the number of tickets.<br> 4. If wanted, the costumer may Choose Places.<br> 5. The system shows the total price to pay.<br> 6. The system redirects the customer to Electronic Payment.<br> 7. The system delivers the electronic tickets to the customer with a unique identifier and QR code. |
+| *Alternative flows and exceptions* | 1. [Payment failure] If, in step 6 of the normal flow the payment fails, the system gives the user the possibility to cancel or retry. |
+
