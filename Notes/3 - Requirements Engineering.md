@@ -11,4 +11,10 @@ Um dos tópicos para o sucesso do projecto é a visão objectiva dos requisitos 
 3. Crescimento do produto não controlado;
 4. Mudanças repentinas nos requisitos;
 
-### T
+### Tipos de requisitos
+
+#### 1 - Requisitos funcionais
+
+Descrevem 
+
+#### 2 - Requisitos não funcionais
