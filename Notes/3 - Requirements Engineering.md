@@ -98,7 +98,7 @@ Protótipo da aplicação, como um modelo primitivo do sistema. Acaba por ser ba
        src = "..//Images//UseCase.png" 
        alt = "use case diagram" 
        />
-    <h4 align = "center">Exemplo</h4>
+    <h4 align = "center">Exemplo</h4><br>
 </p>
 
 
