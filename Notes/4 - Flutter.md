@@ -19,3 +19,15 @@
 
 ### Arquitetura Flutter
 
+#### 1 - Framework
+
+Biblioteca de alto nível, como widgets, rendering, animations... É uma user interface. Fazem um redesenho automático 
+
+#### 2 - Engine
+
+Código nativo que foi previamente compilado. São as funcionalidades de acesso ao sistema operativo. 
+
+#### 3 - Embedder
+
+Parte do código que se conecta diretamente ao sistema operativo nativo, permitindo que a aplicação em Flutter funcione tal como uma aplicação nativa no sistema.
+
