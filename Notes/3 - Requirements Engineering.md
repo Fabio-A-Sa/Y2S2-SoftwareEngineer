@@ -116,7 +116,9 @@ O esquema deve ser seguido de uma tabela onde se explora os seguintes tópicos:
 
 # Domain Models
 
+Podem ser representados através de diagramas de classe UML e com documentação associada, como por exemplo as restrições de cada classe. <br>
 
+Usado para organizar vocabulário da linguagem. As classes representam conceitos e os conceitos podem ser descritos textualmente, sendo a maior informação transmitida pelos atributos de cada classe.
 
 <p align = "center" >
   <img 
