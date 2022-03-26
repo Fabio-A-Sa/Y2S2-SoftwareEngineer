@@ -15,6 +15,9 @@ Um dos tópicos para o sucesso do projecto é a visão objectiva dos requisitos 
 
 #### 1 - Requisitos funcionais
 
-Descrevem 
+Descrevem as funções que o software tem de executar, também conhecido como as capacidades do sistema.
 
 #### 2 - Requisitos não funcionais
+
+Atuam como restrições ao sistema. Como por exemplo "o sistema tem um período máximo de down de 8 horas por ano - também conhecido como disponibilidade" ou "o produto deve ser desenvolvido em Java".
+
