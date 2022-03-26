@@ -75,11 +75,18 @@ Exemplo: "`As a` automobile driver, `I want to be able to` remotely start my car
 
 # Acceptance Tests
 
-Os testes de aceitação são definidos pelo cliente para decidir requisitos e funcionalidades. Em processo ágil, mais do que um teste deve ser realizado com base num user story, atingindo o BDD(Behavior-Driven-Development). A estrutura é a seguinte:
+Os testes de aceitação são definidos pelo cliente para decidir requisitos e funcionalidades. Em processo ágil, mais do que um teste deve ser realizado com base num user story, atingindo o BDD(Behavior-Driven-Development). A estrutura é a seguinte, desenvolvida com a linguagem [Gherkin](https://cucumber.io/docs/gherkin/reference/):
 
 ```gherkin
 Given [initial context or preconditions]
 When [event(s) occur(s)]
 Then [ensure some outcomes or postconditions]
 ```
+
+# Mockups
+
+Protótipo da aplicação, como um modelo primitivo do sistema. Acaba por ser barato, simples e rápido e dá para limar as arestas dos requisitos de acordo com o cliente. Há dois tipos
+
+1. Throw-away prototype: em papel ou em computador, mais baseado nos requisitos do que na implementação;
+2. Evolutionary prototype: apropriado para um desenvolvimento rápido e interativo com um grande envolvimento do utilizador;
 
