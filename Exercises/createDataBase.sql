@@ -14,8 +14,8 @@ CREATE TABLE Questions (
 );
 
 INSERT INTO Questions (question, option1, option2, option3, option4, solution)
-VALUES ('﻿According to the IEEE standard glossary a software engineering approach should be (select the WRONG answer):','Systematic','Disciplined','Quantifiable','Complex','D');
+VALUES ('What of the following IS NOT a SWEBOK knowledge area?','Software Requirements','Database Design','Software Construction','Software Testing','2');
 
 INSERT INTO Questions (question, option1, option2, option3, option4, solution)
-VALUES ('What of the following IS NOT a SWEBOK knowledge area?','Software Requirements','Database Design','Software Construction','Software Testing','B');
+VALUES ('﻿According to the IEEE standard glossary a software engineering approach should be (select the WRONG answer):','Systematic','Disciplined','Quantifiable','Complex','4');
 

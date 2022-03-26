@@ -1,3 +1,6 @@
+from asyncio import shield
+from random import shuffle
+
 def begin():
 
     print("DROP TABLE IF EXISTS Questions;", end = "\n\n")
@@ -20,8 +23,11 @@ def convert():
     directory = "data.csv"
 
     with open (directory, 'r') as data:
-
-        for line in data.readlines():
+        
+        allData = data.readlines()
+        shuffle(allData)
+        
+        for line in allData:
             print("INSERT INTO Questions (question, option1, option2, option3, option4, solution)\nVALUES ('{}');\n".
                     format("','".join(line.strip().split(','))), end = "\n")
 
