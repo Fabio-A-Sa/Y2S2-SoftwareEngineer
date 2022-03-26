@@ -14,18 +14,9 @@ CREATE TABLE Questions (
 );
 
 INSERT INTO Questions (question, option1, option2, option3, option4, solution)
-VALUES ('﻿something;eu;tu;nos;vos;C');
+VALUES ('﻿According to the IEEE standard glossary a software engineering approach should be (select the WRONG answer):','Systematic','Disciplined','Quantifiable','Complex','D');
 
 INSERT INTO Questions (question, option1, option2, option3, option4, solution)
-VALUES ('something;eu;tu;nos;vos;C');
-
-INSERT INTO Questions (question, option1, option2, option3, option4, solution)
-VALUES ('something;eu;tu;nos;vos;C');
-
-INSERT INTO Questions (question, option1, option2, option3, option4, solution)
-VALUES ('something;eu;tu;nos;vos;C');
-
-INSERT INTO Questions (question, option1, option2, option3, option4, solution)
-VALUES ('qualquer outra coisa;alinea 1;coisas;simpáticas;só para teste;A');
+VALUES ('What of the following IS NOT a SWEBOK knowledge area?','Software Requirements','Database Design','Software Construction','Software Testing','B');
 
 SELECT * FROM Questions;
