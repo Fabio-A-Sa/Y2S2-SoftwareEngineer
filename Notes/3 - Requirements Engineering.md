@@ -52,3 +52,24 @@ Produzir a documentação dos requisitos com o detalhe apropriado, dependendo do
 #### 4 - Validation / Validação
 
 Garantir que a documentação gerada no passo anterior faz cumprir os objectivos da equipa e do negócio;
+
+## Artefactos da Engenharia de Requisitos
+
+1. Lista de requisitos, os seus possíveis atributos e características. Muitas vezes organizadas em conjuntos dependendo da prioridade;
+2. Modelo do sistema, como os "use cases" e "user stories" abordados mais à frente;
+3. Interfaces de utilização - mockups;
+4. Testes de aceitação, abordados mais à frente;
+
+# User Stories
+
+Deve incluir respostas às perguntas "Como? Quem? Porquê?" e seguir a tipologia INVEST:
+
+I - Independent, de umas das outras
+N - Negotiable
+V - Valuable
+E - Estimable
+S - Small
+T - Testable
+
+Exemplo: "`As a` automobile driver, `I want to be able to` remotely start my car, `so that it` will be warmed up by time I get to it"
+
