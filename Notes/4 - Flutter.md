@@ -33,13 +33,15 @@ Parte do código que se conecta diretamente ao sistema operativo nativo, permiti
 
 ## Widgets
 
-Objectos que fazem parte da User Interface e têm uma representação visual. Existem os `statefulWidget`, que são estáticos, e `statefullWidget`, que armazenam a informação.
+Objectos que fazem parte da User Interface e têm uma representação visual. Existem os `statelessWidget`, que são estáticos e imutáveis, e `statefullWidget`, que armazenam a informação.
 
 ### Widget Tree
 
 A raiz representa a aplicação. As páginas da aplicação estão no nível 1 e os widgets são os filhos desse nós. Muito usadas nas tecnologias de mobile design, assim como o `diagrama de navegação`.
 
 ## Code
+
+#### Stateless Widgets
 
 ```dart
 import 'package:flutter'
@@ -52,6 +54,28 @@ class MyApp extends StatelessWidget {
     Widget build(BuildContext context) {
         return MaterialApp (
             // constructor
+        );
+    }
+}
+```
+
+#### Stateful Widgets
+
+```dart
+class MyWidget extends StatefulWidget {
+
+    @override
+    _MyWidgetState createState() => _MyWidgetState();
+}
+
+class _MyWidgetState extends State<MyWidget> {
+
+    int value = initValue;
+
+    @override
+    Widget build(BuildContext context) {
+        return Container (
+            // the UI of this widget
         );
     }
 }
