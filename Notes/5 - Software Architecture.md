@@ -36,12 +36,29 @@ São gerais para qualquer software:
 
 Separa a representação do software em três partes:
 
-- Controller: recebe os pedidos / executa funções;
-- Viewer: inteface;
-- Model: contem os dados (uma base de dados);
+- `Controller`: recebe os pedidos / executa funções;
+- `Viewer`: inteface;
+- `Model`: contem os dados (uma base de dados);
 
-### 2. 
+### 2. Pipes and Filters / Data Flows
 
-### 3.
+Organiza o sistema como um conjunto de dados a processar componentes (*filters*), conectados através de *pipes*. Muito usados em sistemas Unix. <br>
+Exemplo:
+
+```bash
+$ grep gets *.[ch] | cut -f1 -d: | sort -u
+```
+
+### 3. Layered Architecture
+
+Organiza o sistema num conjunto de camadas, em que cada grupo funciona e providencia serviços para a camada abaixo. Há dependência entre componentes. Existem dois tipos:
+
+#### 3.1 Strict:
+
+A layer `n` conecta-se somente com a layer `n-1` (camada imediatamente abaixo). Geralmente estes sistemas têm poucas camadas, senão torna-se pouco eficiente.
+
+#### 3.2 Relaxed
+
+Cada layer pode interagir com qualquer layer abaixo. Mais útil.
 
 ### 4. 
