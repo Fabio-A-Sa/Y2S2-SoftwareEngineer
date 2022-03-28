@@ -30,6 +30,13 @@ São gerais para qualquer software:
 - Data Flow (Batch, pipes e filtros);
 - Independent Components (processos, invocações implícitas e explícitas);
 
+### Passos da arquitetura de software
+
+1. Requisitos;
+2. Arquitetura;
+3. Detalhes, código e unit testing;
+4. Integração e novos testes;
+
 ## Architecture Patterns
 
 ### 1. Model View Controller (MVC)
@@ -51,14 +58,22 @@ $ grep gets *.[ch] | cut -f1 -d: | sort -u
 
 ### 3. Layered Architecture
 
-Organiza o sistema num conjunto de camadas, em que cada grupo funciona e providencia serviços para a camada abaixo. Há dependência entre componentes. Existem dois tipos:
+Organiza o sistema num conjunto de camadas, em que cada grupo funciona e providencia serviços para a camada abaixo. Há dependência entre componentes. As aplicações WEB contêm 3 camadas (Visualização, base de dados, javascript...). Existem dois tipos:
 
 #### 3.1 Strict:
 
-A layer `n` conecta-se somente com a layer `n-1` (camada imediatamente abaixo). Geralmente estes sistemas têm poucas camadas, senão torna-se pouco eficiente.
+A layer `n` conecta-se somente com a layer `n-1` (camada imediatamente abaixo). Geralmente estes sistemas têm poucas camadas, senão torna-se pouco eficiente. Por padrão.
 
 #### 3.2 Relaxed
 
-Cada layer pode interagir com qualquer layer abaixo. Mais útil.
+Cada layer pode interagir com qualquer layer abaixo. Mais útil, mas para evitar pois cria-se maiores dependências entre camadas.
 
-### 4. 
+### 4. Repository Architecture
+
+Os dados do sistema estão guardados um repositório central que é acessível por todo o sistema: componentes e subsisteas. Estes não interagem diretamente.
+
+## Component Diagrams
+
+Um componente representa um módulo do sistema (exemplo: Flutter, os seus plug-ins, bibliotecas, executáveis...). <br>
+Os componentes são interligados com *interfaces*, como uma API. As dependências entre componentes traduzem também o comportamento quando são utilizadas em conjunto.
+
