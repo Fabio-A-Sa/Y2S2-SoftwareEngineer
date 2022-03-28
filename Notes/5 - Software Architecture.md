@@ -8,7 +8,7 @@ Componentes ligados por conectores (back-end e front-end por exemplo). Todos os 
 - Longevidade;
 - Robustez e adaptação futura;
 
-## Objectivos da arquitetura de software:
+### Objectivos da arquitetura de software:
 
 1. Controlar a complexidade do sistema (em escala e em tecnologia);
 2. Garantir os requisitos não funcionais;
@@ -20,7 +20,7 @@ Componentes ligados por conectores (back-end e front-end por exemplo). Todos os 
 - `Código`: algoritmos e estruturas de dados;
 - `Arquitetura`: módulos (genéricos, abstratos, com separação de conceitos, desenhados para uma possível mudança) e interconecções;
 
-## Estilos de arquitetura
+### Estilos de arquitetura
 
 São gerais para qualquer software:
 
@@ -30,3 +30,18 @@ São gerais para qualquer software:
 - Data Flow (Batch, pipes e filtros);
 - Independent Components (processos, invocações implícitas e explícitas);
 
+## Architecture Patterns
+
+### 1. Model View Controller (MVC)
+
+Separa a representação do software em três partes:
+
+- Controller: recebe os pedidos / executa funções;
+- Viewer: inteface;
+- Model: contem os dados (uma base de dados);
+
+### 2. 
+
+### 3.
+
+### 4. 
