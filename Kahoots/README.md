@@ -10,4 +10,4 @@ Usando:
 - `SQL`, DDL (*Data Definition Language*) para estruturar os dados;
 - `SQLite`, Base de Dados adoptada para o projecto;
 - `HTML`, a base do site;
-- `Bash`, para o script que lê, compilar e executar todo o projecto de forma sequencial;
+- `Bash`, script que lê, compila e executa todo o projecto de forma sequencial;
