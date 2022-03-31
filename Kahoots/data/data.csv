@@ -3,3 +3,15 @@ What of the following IS NOT a SWEBOK knowledge area?,Software Requirements,Data
 What is the oldest programming language?,C,C++,Java,Python,1
 What is the oldest company?,Apple,Oracle,Microsoft,IBM,4
 What is the most common cause of security vulnerabilities in C/C++?,Race conditions,Buffer overflow,Integer overflow,Unhandled exceptions,2
+Which of the following is NOT an architectural pattern?,model-view controller,pipes and filters,singleton,client-server,3
+Which architectural pattern is most appropriate for interactive systems?,Model-view-controller,Pipes and filters,Layered architecture,Client-server and n-tier systems,1
+Which architectural pattern is most appropriate for batch processing?,Repositories,Pipes and filters,Layered architecture,Client-server and n-tier systems,2
+Which architectural pattern is most appropriate for distributed applications?,Repositories,Pipes and filters,Layered architecture,Client-server,4
+In a relaxed layered architecture…,each layer can only interact with the layer above or below,each layer can interact with any lower layer,each layer can interact with any other layer,each layer can only interact with the layer directly below,2
+Which of the following is NOT a view in the 4+1 view model of software architecture?,Logical View,Implementation View,Deployment View,Dynamic View,4
+UML package diagrams are best suited to describe which view?,Logical View,Implementation View,Process View,Deployment View,1
+UML component diagrams are best suited to describe which view?,Logical view,Implementation view,Process view,Deployment view,2
+Which of the following is NOT a valid element or relationship in UML deployment diagrams?,node,artifact,association,site,4
+Which of the following is NOT a valid element or relationship in UML package diagrams?,generalization,dependency,folder,package,3
+"Use fine-grained loosely coupled replaceable components" promotes what property?,Security,Availability,Safety,Maintainability,4
+"Include redundant components and mechanisms for fault tolerance" promotes what property?,Safety,Availability,Security,Maintainability,2
