@@ -76,7 +76,7 @@ Os dados do sistema estão guardados um repositório central que é acessível p
 
 ### Artifacts
 
-Informação física
+Elementos com informação física ou produzida pelo software. Exemplos: ficheiros de modelo, recursos, ficheiros executáveis, scripts.
 
 ### Component Diagrams
 
@@ -91,6 +91,8 @@ Os nós são recursos computacionais onde os artefatos podem ser implantados. S�
 
 Para ver formas de utilização / nomenclatura, consultar estes [slides](https://moodle.up.pt/pluginfile.php/163331/course/section/42858/9.%20L.EIC-ES-2021-22-Architecture%20%20Design.pdf).
 
-### 
+### Package Diagrams
+
+Os mais parecidos com o UML tradicional, embora as classes sejam agora packages que se incluem e generalizam.
 
 Para ver formas de utilização / nomenclatura, consultar estes [slides](https://moodle.up.pt/pluginfile.php/163331/course/section/42858/9.%20L.EIC-ES-2021-22-Architecture%20%20Design.pdf).
