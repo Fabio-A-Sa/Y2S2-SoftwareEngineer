@@ -83,7 +83,7 @@ Elementos com informação física ou produzida pelo software. Exemplos: ficheir
 Um componente representa um módulo do sistema (exemplo no Flutter: os seus plug-ins, bibliotecas, executáveis...). <br>
 Os componentes são interligados com *interfaces*, como uma API. As dependências entre componentes traduzem também o comportamento quando são utilizadas em conjunto.
 
-Para ver formas de utilização / nomenclatura, consultar estes [slides](https://moodle.up.pt/pluginfile.php/163331/course/section/42858/9.%20L.EIC-ES-2021-22-Architecture%20%20Design.pdf.
+Para ver formas de utilização / nomenclatura, consultar estes [slides](https://moodle.up.pt/pluginfile.php/163331/course/section/42858/9.%20L.EIC-ES-2021-22-Architecture%20%20Design.pdf).
 
 ### Deployment Diagrams
 
@@ -93,6 +93,5 @@ Para ver formas de utilização / nomenclatura, consultar estes [slides](https:/
 
 ### Package Diagrams
 
-Os mais parecidos com o UML tradicional, embora as classes sejam agora packages que se incluem e generalizam.
-
+Os mais parecidos com o UML tradicional, embora as classes sejam agora packages que se incluem e generalizam. <br>
 Para ver formas de utilização / nomenclatura, consultar estes [slides](https://moodle.up.pt/pluginfile.php/163331/course/section/42858/9.%20L.EIC-ES-2021-22-Architecture%20%20Design.pdf).
