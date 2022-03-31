@@ -1,4 +1,3 @@
-from asyncio import shield
 from random import shuffle
 
 def begin():
