@@ -8,6 +8,7 @@ def begin():
     print(".headers on", end = "\n\n")
     print("CREATE TABLE Questions (", end = "\n")
     print("     id INTEGER PRIMARY KEY AUTOINCREMENT,", end = "\n")
+    print("     topic INTEGER NOT NULL,", end = "\n")
     print("     question TEXT,", end = "\n")
     print("     option1 TEXT,", end = "\n")
     print("     option2 TEXT,", end = "\n")
@@ -20,7 +21,7 @@ def convert():
 
     begin()
 
-    directory = "data.csv"
+    directory = "../data/data.csv"
 
     with open (directory, 'r') as data:
         
@@ -28,7 +29,7 @@ def convert():
         shuffle(allData)
         
         for line in allData:
-            print("INSERT INTO Questions (question, option1, option2, option3, option4, solution)\nVALUES ('{}');\n".
+            print("INSERT INTO Questions (topic, question, option1, option2, option3, option4, solution)\nVALUES ('{}');\n".
                     format("','".join(line.strip().split(','))), end = "\n")
 
     data.close()
