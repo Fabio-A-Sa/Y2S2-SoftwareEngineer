@@ -72,8 +72,25 @@ Cada layer pode interagir com qualquer layer abaixo. Mais útil, mas para evitar
 
 Os dados do sistema estão guardados um repositório central que é acessível por todo o sistema: componentes e subsisteas. Estes não interagem diretamente.
 
-## Component Diagrams
+## Diagrams
 
-Um componente representa um módulo do sistema (exemplo: Flutter, os seus plug-ins, bibliotecas, executáveis...). <br>
+### Artifacts
+
+Informação física
+
+### Component Diagrams
+
+Um componente representa um módulo do sistema (exemplo no Flutter: os seus plug-ins, bibliotecas, executáveis...). <br>
 Os componentes são interligados com *interfaces*, como uma API. As dependências entre componentes traduzem também o comportamento quando são utilizadas em conjunto.
 
+Para ver formas de utilização / nomenclatura, consultar estes [slides](https://moodle.up.pt/pluginfile.php/163331/course/section/42858/9.%20L.EIC-ES-2021-22-Architecture%20%20Design.pdf.
+
+### Deployment Diagrams
+
+Os nós são recursos computacionais onde os artefatos podem ser implantados. São conectados por associações de comunicação, podem ser representados por tipo ou instância e ter atributos, métodos e ícones identificativos.
+
+Para ver formas de utilização / nomenclatura, consultar estes [slides](https://moodle.up.pt/pluginfile.php/163331/course/section/42858/9.%20L.EIC-ES-2021-22-Architecture%20%20Design.pdf).
+
+### 
+
+Para ver formas de utilização / nomenclatura, consultar estes [slides](https://moodle.up.pt/pluginfile.php/163331/course/section/42858/9.%20L.EIC-ES-2021-22-Architecture%20%20Design.pdf).
