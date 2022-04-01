@@ -43,7 +43,7 @@ def fillTableTopics(directory):
         
         for line in allData:
             print("INSERT INTO Topics (topic, title)\nVALUES ('{}');\n".
-                    format("','".join(line.strip().split(','))), end = "\n")
+                    format("','".join(element.strip() for element in line.strip().split(','))), end = "\n")
 
 def fillTableQuestions(directory): 
 
@@ -52,7 +52,7 @@ def fillTableQuestions(directory):
         
         for line in allData:
             print("INSERT INTO Questions (topic, question, option1, option2, option3, option4, solution)\nVALUES ('{}');\n".
-                    format("','".join(line.strip().split(','))), end = "\n")
+                    format("','".join(element.strip() for element in line.strip().split(','))), end = "\n")
 
 def run(topicsDirectory, questionsDirectory):
 
