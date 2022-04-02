@@ -38,8 +38,8 @@
 2,Which one is NOT a phase in the Rational Unified Process (RUP)?,Incenption,Elaboration,Construction,Project Management,4
 2,In RUP what is the main goal of the inception phase?,Define the project scope and business case (understand the problem)l,Define the solution architecture and features (understand the solution),Build the product (have a solution),Transition the product into the end-users,1
 2,In RUP what is the main goal of the Elaboration phase?,Define the project scope and business case (understand the problem)l,Define the solution architecture and features (understand the solution),Build the product (have a solution),Transition the product into the end-users,2
-2,
-2,
-2,
-2,
-2,
+2,"Find actors and use cases" in an acivity of which RUP discipline?,Business Modeling,Requirements,Analysis and Desing,Implementation,2
+2,XP was developed by?,Grady Booch,Fred Brooks,Tony Hoare,Kent Beck,4
+2,Which the following design practices IS NOT a XP practice?,System Metaphor,Simple Design,Refactoring,Architectural Trade-Off Analysis,4
+2,Which the following team working practices IS NOT a XP practice?,Pair Programming,Individual Code Ownership,Sustainable Pace,On-Site Customer,2
+2,What distinguishes Test-Driven Development?,Test cases are created before the code to be tested,Test cases are created based on the code,Test cases are created to cover all the code,Test cases are created to kill all the mutants,1
