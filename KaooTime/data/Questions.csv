@@ -28,7 +28,7 @@
 4,Which of the following is NOT a valid element or relationship in UML package diagrams?,generalization,dependency,folder,package,3
 4,"Use fine-grained loosely coupled replaceable components" promotes what property?,Security,Availability,Safety,Maintainability,4
 4,"Include redundant components and mechanisms for fault tolerance" promotes what property?,Safety,Availability,Security,Maintainability,2
-2,The distiction between plan-driven and agile processes is that,in agile processes there is no planning,is plan-driven processes plans can't be changed contrarily to agile,in agile processes planning is incremental contrarily to plan-driven,in plan-driven processes plans are documented contrarily to agile,3
+2,The distiction between plan-driven and agile processes is that,in agile processes there is no planning,is plan-driven processes plans cant be changed contrarily to agile,in agile processes planning is incremental contrarily to plan-driven,in plan-driven processes plans are documented contrarily to agile,3
 2,Common activities in all software development processes are (select the WRONG) one,Specification,Design and Implementation,Validation,Round-trip engineering,4
 2,Which the following IS NOT a software process model?,Waterfall model,Incremental development,Test-driven Development,Integration and Configuration,3
 2,When can the waterfall model be applicable?,Never,In large multi-site projects with stable requirements,In the development of water management applications,In projects with frequent requirements changes,2
@@ -43,3 +43,13 @@
 2,Which the following design practices IS NOT a XP practice?,System Metaphor,Simple Design,Refactoring,Architectural Trade-Off Analysis,4
 2,Which the following team working practices IS NOT a XP practice?,Pair Programming,Individual Code Ownership,Sustainable Pace,On-Site Customer,2
 2,What distinguishes Test-Driven Development?,Test cases are created before the code to be tested,Test cases are created based on the code,Test cases are created to cover all the code,Test cases are created to kill all the mutants,1
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
