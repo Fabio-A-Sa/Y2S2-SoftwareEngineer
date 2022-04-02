@@ -15,7 +15,7 @@
             $prep = $db->prepare('SELECT id, question, option1, option2, option3, option4 FROM Questions');
             $prep->execute(array());
             $rows = $prep->fetchAll();
-            
+
             echo "<form action='correction.php' method='post'>";
             foreach ($rows as $row) {
                 echo "<section><h4>".$row['question']."</h4><ul>";
@@ -24,6 +24,7 @@
                     echo "<input type='radio' name={$id} value={$i}>".$row['option'.$i]."<br>";
                 }
                 echo "</ul></section>";
+                $index++;
             }
             echo "<button type=submit>Send</button>";
             echo "</form>";
