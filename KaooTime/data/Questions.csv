@@ -28,3 +28,18 @@
 4,Which of the following is NOT a valid element or relationship in UML package diagrams?,generalization,dependency,folder,package,3
 4,"Use fine-grained loosely coupled replaceable components" promotes what property?,Security,Availability,Safety,Maintainability,4
 4,"Include redundant components and mechanisms for fault tolerance" promotes what property?,Safety,Availability,Security,Maintainability,2
+2,The distiction between plan-driven and agile processes is that,in agile processes there is no planning,is plan-driven processes plans can't be changed contrarily to agile,in agile processes planning is incremental contrarily to plan-driven,in plan-driven processes plans are documented contrarily to agile,3
+2,Common activities in all software development processes are (select the WRONG) one,Specification,Design and Implementation,Validation,Round-trip engineering,4
+2,Which the following IS NOT a software process model?,Waterfall model,Incremental development,Test-driven Development,Integration and Configuration,3
+2,When can the waterfall model be applicable?,Never,In large multi-site projects with stable requirements,In the development of water management applications,In projects with frequent requirements changes,2
+2,Advantages of incremental development (select the WRONG one),The cost of accommodating changing requirements is reduced,Mode frequent and early customer feedback reduces failture risk,System functionarily is available earlier,Reduces the need for code refactoring,4
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
