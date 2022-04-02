@@ -33,11 +33,11 @@
 2,Which the following IS NOT a software process model?,Waterfall model,Incremental development,Test-driven Development,Integration and Configuration,3
 2,When can the waterfall model be applicable?,Never,In large multi-site projects with stable requirements,In the development of water management applications,In projects with frequent requirements changes,2
 2,Advantages of incremental development (select the WRONG one),The cost of accommodating changing requirements is reduced,Mode frequent and early customer feedback reduces failture risk,System functionarily is available earlier,Reduces the need for code refactoring,4
-2,
-2,
-2,
-2,
-2,
+2,"The sistem is assembled from existing components" refers to,The "integration and configuration" process model,The "waterfall" process model,The "software prototyping" approach,The "incremental development" process model,1
+2,Software prototyping is useful to (select the WRONG answer),reduce uncentainty in requirements,try out design options,find bugs in the system implementation,validate requirements,3
+2,Which one is NOT a phase in the Rational Unified Process (RUP)?,Incenption,Elaboration,Construction,Project Management,4
+2,In RUP what is the main goal of the inception phase?,Define the project scope and business case (understand the problem)l,Define the solution architecture and features (understand the solution),Build the product (have a solution),Transition the product into the end-users,1
+2,In RUP what is the main goal of the Elaboration phase?,Define the project scope and business case (understand the problem)l,Define the solution architecture and features (understand the solution),Build the product (have a solution),Transition the product into the end-users,2
 2,
 2,
 2,
