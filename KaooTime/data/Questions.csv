@@ -65,18 +65,8 @@
 5,"Compare test progress against test plan and take corrective actions as needed" is the goal of,Test execution,Test monitoring and control,Test analysis,Test completion,2
 5,Testing in which components are combined and tested to evaluate the interaction between them is,Unit or component testing,Integration testing,Acceptance testing,Smoke testing,2
 5,Testing on a complete integrated system to evaluate compliance with specified requirements is,Requirements testing,System integration testing,System testing,Alpha testing,3
-5,
-5,
-5,
-5,
-5,
-5,
-5,
-5,
-5,
-5,
-5,
-5,
-5,
-5,
-5,
+5,Retesting a system or component to check that modifications didn't cause unintended effects is,Defect testing,Smoke testing,Reliability testing,Regression testing,4
+5,Which of the following is NOT a black-box testing technique?,Equivalence class partitioning,Boundary value analysis,State machine testing,Mutation testing,4
+5,Which one is NOT a coverage criteria in white-box testing?,Statement coverage,Decision coverage,Requirements coverage,Branch coverage,3
+5,Which of the following tools or frameworks are NOT used in automated unit testing?,Unit testing frameworks (e.g. JUnit),Test coverage analysis tools (e.g. Eclemma),Mutation testing tools (e.g. pitest),Mock-up tools (e.g. Balsamic),4
+5,Which package should be used for automating acceptance tests in Flutter?,test,flutter_test,flutter_gherkin,acceptance_test,3
