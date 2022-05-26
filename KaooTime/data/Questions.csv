@@ -70,3 +70,9 @@
 5,Which one is NOT a coverage criteria in white-box testing?,Statement coverage,Decision coverage,Requirements coverage,Branch coverage,3
 5,Which of the following tools or frameworks are NOT used in automated unit testing?,Unit testing frameworks (e.g. JUnit),Test coverage analysis tools (e.g. Eclemma),Mutation testing tools (e.g. pitest),Mock-up tools (e.g. Balsamic),4
 5,Which package should be used for automating acceptance tests in Flutter?,test,flutter_test,flutter_gherkin,acceptance_test,3
+6,Which statement about JSON is FALSE?,JSON is an acronym for JavaScript Object Notation,JSON is a text format for storing and transporting data,JSON is self-describingand easy to understand,JSON is a markup language based on XML,4
+6,The conversion of JSON strings to objects in Dart (or other language) is called,Serialization,Marshaling,Deserialization,Objectification,3
+6,In Dart, which functions of the http library are used for accessing Web APIs?,get and post,read and write,send and receive,get and set,3
+6,Cookies are passed in what part of HTTP requests and responses?,body,header,footer,signature,2
+6,With null safety in Dart, how can we declare a variable str that may hold a string or null?,String str = null;,String str;,String! str;,String? str;,4
+6,The following code "var x = 1; print('$x + ${x+1}');" in Dart prints what?,1 + 2,$x + ${x+1},3,1 + 1 + 1,1
