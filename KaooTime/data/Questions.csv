@@ -76,3 +76,10 @@
 6,Cookies are passed in what part of HTTP requests and responses?,body,header,footer,signature,2
 6,With null safety in Dart, how can we declare a variable str that may hold a string or null?,String str = null;,String str;,String! str;,String? str;,4
 6,The following code "var x = 1; print('$x + ${x+1}');" in Dart prints what?,1 + 2,$x + ${x+1},3,1 + 1 + 1,1
+7,Which one is NOT a UML behavioral diagram?,Sequence diagram,State machine diagram,Deployment diagram,Activity diagram,3
+7,Which UML diagram shows messages exchanged between a set of participants over time?,Sequence diagram,State machine diagram,Activity diagram,Use case diagram,1
+7,Which one is NOT a valid element in a UML sequence diagram?,Lifeline,Message,Combined fragment,Timeline,4
+7,Which UML diagram is used to model the lifecycle of objects or systems with a discrete event-driven behavior?,Object diagram,State machine diagram,Activity diagram,Composite structure diagram,2
+7,Which one is NOT a valid element in a UML state machine diagram?,Lifeline,State,Transition,Composite state,1
+7,Which one is a UML diagram suited to show processing steps using a mixed control and data flow model?,Process diagram,Workflow diagram,Data flow diagram,Activity diagram,4
+7,Which one is NOT a valid element in a UML activity diagram?,Action node,Object node,Control node (decision merge fork join),Deployment node,4
