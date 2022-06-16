@@ -22,3 +22,5 @@ Aplicação de sistemáticos, definidos e quantificáveis métodos para o desenv
 - 2001: Agile Manifesto;
 
 ## 2 - Processos de Software
+
+O processo de Software é constituído por 4 etapas principais (especificação, design/implementação / validação / evolução).
