@@ -60,7 +60,7 @@ Tudo é incremental. Pode ser tanto agile como plan-driven. É parecido com o Wa
 
 #### RUP - Relational Unified Process
 
-Iterativo e incremental, plan-driven e usando muito UML. Tem quatro fases: 
+Iterativo e incremental, plan-driven e usando UML. Tem quatro fases: 
 
 1. Inception - Estabelece o escopo do projecto e as condições limite. Estima potenciais riscos e prepara o suporte para o desenvolvimento.
 2. Elaboration - Define a arquitetura através dos use cases, as iterações e seleciona componentes.
@@ -76,4 +76,6 @@ De acordo com o processo ágil, desenvolvido por Kent Beck nos anos 90. O planea
 - TDD;
 - Refactoring;
 - Pair Programming;
+
+## 3 - Engenharia de Requisitos
 
