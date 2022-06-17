@@ -71,7 +71,7 @@ Iterativo e incremental, plan-driven e usando muito UML. Tem quatro fases:
 
 De acordo com o processo ágil, desenvolvido por Kent Beck nos anos 90. O planeamento é feito para um curto prazo para ser simples moldá-lo face às novas exigências dos utilizadores. Os valores fundamentais são a comunicação, simplicidade, feedback e coragem (refactoração do sistema). Algumas práticas:
 
-- User stories;
+- User stories (As a... I want... So that I can...);
 - Small releases;
 - TDD;
 - Refactoring;
