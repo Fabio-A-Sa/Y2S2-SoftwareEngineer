@@ -6,6 +6,7 @@
 2. Processos de Software
 3. Engenharia de Requisitos
 4. UML
+5. Arquitetura de Software
 
 ## 1 - Introdução e História
 
@@ -128,6 +129,10 @@ Ainda há hipótese de fazerem questionários, para um número abrangente e stak
 
 ### 4.1 - Use Cases Diagram
 
-Especifica o contexto do sistema, o propósito do sistema e capturar os requisitos funcionais. Tem actores, use cases e relações (generalizações, include (comprar tickets online - - > pagamento eletrónico, uma subrotina), extend (escolha de lugares - - > comprar bilhetes online, relaciona algo a um caso de uso básico)).
+Especifica o contexto do sistema, o propósito do sistema e capturar os requisitos funcionais. Tem actores, use cases e relações (generalizações, pré condições, pós condições, normal flow, include (comprar tickets online - - > pagamento eletrónico, uma subrotina), extend (escolha de lugares - - > comprar bilhetes online, extension - - > base, relaciona algo a um caso de uso básico)).
 
+### 4.2 - Domain Models
 
+Usados para capturar requisitos, organizar o vocabulário, às vezes partido em packages, classes e interfaces.
+
+## 5 - Arquitetura de Software
