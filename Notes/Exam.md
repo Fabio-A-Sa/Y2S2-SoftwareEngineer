@@ -128,4 +128,6 @@ Ainda há hipótese de fazerem questionários, para um número abrangente e stak
 
 ### 4.1 - Use Cases Diagram
 
+Especifica o contexto do sistema, o propósito do sistema e capturar os requisitos funcionais. Tem actores, use cases e relações (generalizações, include (comprar tickets online - - > pagamento eletrónico, uma subrotina), extend (escolha de lugares - - > comprar bilhetes online, relaciona algo a um caso de uso básico)).
+
 
