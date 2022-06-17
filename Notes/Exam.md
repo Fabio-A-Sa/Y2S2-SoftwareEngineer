@@ -5,6 +5,7 @@
 1. Introdução e história
 2. Processos de Software
 3. Engenharia de Requisitos
+4. UML
 
 ## 1 - Introdução e História
 
@@ -122,3 +123,9 @@ Podem ser Throw-away (descartáveis, em papel ou computador), para ver os requis
 Podem ser abertas / não estruturadas, quando várias etapas ainda têm de ser exploradas, ou fechadas, com uma lista de questões. A maior parte são mistas.
 
 Ainda há hipótese de fazerem questionários, para um número abrangente e stakeholders, e reuniões "brainstorming" para criar e inovar requisitos.
+
+## 4 - Unified Modeling Language (UML)
+
+### 4.1 - Use Cases Diagram
+
+
