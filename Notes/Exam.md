@@ -104,3 +104,19 @@ Atuam como restrições ao sistema. Como por exemplo "o sistema tem um período 
 
 ### 3.4 - Artefactos da Engenharia de Requisitos
 
+- Lista de requisitos;
+- Modelos de sistema (use cases and domain model), para remover a ambiguidade da linguagem natural;
+- User interface prototypes / Mockups;
+- Acceptance tests;
+
+#### User Stories
+
+No formato "As an... I want to be able to... So that...". Devem seguir o formato INVEST (Independent, Negotiable, Valuable, Estimable, Small, Testable). O seu teste passa por testes em Gherkin (usando Cucumber) segundo o formato "Feature, Background, Scenario, Given, When, Then".
+
+#### Prototypes
+
+Podem ser Throw-away (descartáveis, em papel ou computador), para ver os requisitos mais do que a implementação; ou Evolutionary, para um desenvolvimento rápido testando as funcionalidades da framework que vai ser usada com forte conecção end-user.
+
+
+
+
