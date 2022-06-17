@@ -44,8 +44,27 @@ Todos os processos e atividades são planeados previamente com muita antecedênc
 
 O planeamento é incremental e é fácil de modificar o processo para refletir em tempo real as novas exigências do utilizador final, ao contrário do anterior. Exemplo: eXtrem Programming. 
 
-### Testing
+### 2.3 - Testing
 
 Unit/Component Testing, Integration, System testing e acceptance testing (Gherkin, para ver se as necessidades do utilizador foram implementadas e cumpridas).
+
+### 2.4 - Processos
+
+#### Waterfall
+
+Modelo plan-driven. Tem separadas e distintas fases de especificação, validação e desenvolvimento. Como não é flexível, temos de reestruturar o plano caso haja mais especificações por parte do cliente. 
+
+#### Incremental / Spiral
+
+Tudo é incremental. Pode ser tanto agile como plan-driven. É parecido com o Waterfall mas há hipótese de voltar para trás para alguns ajustes, mas há refactoring.
+
+#### RUP - Relational Unified Process
+
+Iterativo e incremental, plan-driven e usando muito UML. Tem quatro fases: 
+
+1. Inception
+2. Elaboration
+3. Construction
+4. Transtition
 
 
