@@ -62,9 +62,11 @@ Tudo é incremental. Pode ser tanto agile como plan-driven. É parecido com o Wa
 
 Iterativo e incremental, plan-driven e usando muito UML. Tem quatro fases: 
 
-1. Inception
-2. Elaboration
+1. Inception - Estabelece o escopo do projecto e as condições limite. Estima potenciais riscos e prepara o suporte para o desenvolvimento.
+2. Elaboration - Define a arquitetura 
 3. Construction
 4. Transtition
+
+#### Extreme Programming
 
 
