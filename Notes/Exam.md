@@ -136,3 +136,12 @@ Especifica o contexto do sistema, o propósito do sistema e capturar os requisit
 Usados para capturar requisitos, organizar o vocabulário, às vezes partido em packages, classes e interfaces.
 
 ## 5 - Arquitetura de Software
+
+Controla a complexidade e organização do sistema (em escala e em tecnologia), garante os requisitos não funcionais e assegurar a qualidade (tradeoff, memória vs. velocidade). Usa componentes ligados por conectores ligados por conectores (back-end e front-end por exemplo). Todos os componentes da arquitetura devem ter em conta o custo, materiais, escala, logevidade e robustez a adaptações futuras.
+
+Há três camadas do design de software:
+
+- Arquitetura, com módulos genéricos e abstratos;
+- Código, com algoritmos e estruturas de dados;
+- Executáveis, com stack, registos, máquinas de baixo nível;
+
