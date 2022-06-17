@@ -89,7 +89,18 @@ Os problemas da Engenharia de Requisitos recaem sobretudo na escassa comunicaç�
 
 #### Funcionais
 
-
+Descrevem as funções que o software tem de executar, também conhecido como as capacidades do sistema.
 
 #### Não funcionais
+
+Atuam como restrições ao sistema. Como por exemplo "o sistema tem um período máximo de down de 8 horas por ano - também conhecido como disponibilidade" ou "o produto deve ser desenvolvido em Java".
+
+### 3.3 - Etapas
+
+- Elicitação - Contacto com os stakeholders para perceber as necessidades e requisitos;
+- Análises - Organizar a informação recolhida para priorizar os requisitos a cumprir;
+- Especificação - Produzir a documentação dos requisitos;
+- Validação - verificar que os requisitos também estão de acordo com os objectivos do projecto;
+
+### 3.4 - Artefactos da Engenharia de Requisitos
 
