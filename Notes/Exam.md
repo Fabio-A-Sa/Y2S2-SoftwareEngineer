@@ -10,11 +10,11 @@
 
 Ao longo dos anos, as maiores empresas deixaram de ser petrolíferas e passaram a ser relacionadas à área de Informática. No software por vezes contém erros devido à mão humana (buffer overflow, race condition).
 
-### 1.1 Definição de Engenharia de Software
+### 1.1 - Definição de Engenharia de Software
 
 Aplicação de sistemáticos, definidos e quantificáveis métodos para o desenvolvimento, operação e manutenção de software.
 
-### 1.2 História da Engenharia de Software
+### 1.2 - História da Engenharia de Software
 
 - 1945: Primeiro BUG numa máquina utilizada durante a Segunda Guerra Mundial;
 - 1960: Utilização de Software para a Missão Apollo, por Margarett Hamilton;
@@ -25,7 +25,7 @@ Aplicação de sistemáticos, definidos e quantificáveis métodos para o desenv
 
 O processo de Software é constituído por 4 etapas principais (especificação, design/implementação, validação, evolução) e é definido por eficiência, consistência e pela possível melhoria futura.
 
-### SDLC: Software Development Life Cycle
+### 2.1 - SDLC: Software Development Life Cycle
 
 1. Planning
 2. Analysis
@@ -34,7 +34,7 @@ O processo de Software é constituído por 4 etapas principais (especificação,
 5. Testing and Integration
 6. Maintenance
 
-### Plan Driven e Agile
+### 2.2 - Plan Driven e Agile
 
 #### Plan Driven
 
@@ -45,5 +45,7 @@ Todos os processos e atividades são planeados previamente com muita antecedênc
 O planeamento é incremental e é fácil de modificar o processo para refletir em tempo real as novas exigências do utilizador final, ao contrário do anterior. Exemplo: eXtrem Programming. 
 
 ### Testing
+
+Unit/Component Testing, Integration, System testing e acceptance testing (Gherkin, para ver se as necessidades do utilizador foram implementadas e cumpridas).
 
 
