@@ -63,10 +63,17 @@ Tudo é incremental. Pode ser tanto agile como plan-driven. É parecido com o Wa
 Iterativo e incremental, plan-driven e usando muito UML. Tem quatro fases: 
 
 1. Inception - Estabelece o escopo do projecto e as condições limite. Estima potenciais riscos e prepara o suporte para o desenvolvimento.
-2. Elaboration - Define a arquitetura 
-3. Construction
-4. Transtition
+2. Elaboration - Define a arquitetura através dos use cases, as iterações e seleciona componentes.
+3. Construction - Controlo e otimização do processo, desenvolvimento de cada componente e testagem.
+4. Transition - Deploy, release e user feedback.
 
-#### Extreme Programming
+#### Extreme Programming (XP)
 
+De acordo com o processo ágil, desenvolvido por Kent Beck nos anos 90. O planeamento é feito para um curto prazo para ser simples moldá-lo face às novas exigências dos utilizadores. Os valores fundamentais são a comunicação, simplicidade, feedback e coragem (refactoração do sistema). Algumas práticas:
+
+- User stories;
+- Small releases;
+- TDD;
+- Refactoring;
+- Pair Programming;
 
