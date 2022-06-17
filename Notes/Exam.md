@@ -121,3 +121,4 @@ Podem ser Throw-away (descartáveis, em papel ou computador), para ver os requis
 
 Podem ser abertas / não estruturadas, quando várias etapas ainda têm de ser exploradas, ou fechadas, com uma lista de questões. A maior parte são mistas.
 
+Ainda há hipótese de fazerem questionários, para um número abrangente e stakeholders, e reuniões "brainstorming" para criar e inovar requisitos.
