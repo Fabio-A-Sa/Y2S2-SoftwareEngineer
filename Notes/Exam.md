@@ -23,4 +23,25 @@ Aplicação de sistemáticos, definidos e quantificáveis métodos para o desenv
 
 ## 2 - Processos de Software
 
-O processo de Software é constituído por 4 etapas principais (especificação, design/implementação / validação / evolução).
+O processo de Software é constituído por 4 etapas principais (especificação, design/implementação, validação, evolução) e é definido por eficiência, consistência e pela possível melhoria futura.
+
+### SDLC: Software Development Life Cycle
+
+1. Planning
+2. Analysis
+3. Design
+4. Implementation
+5. Testing and Integration
+6. Maintenance
+
+### Plan Driven e Agile
+
+#### Plan Driven
+
+
+
+#### Agile
+
+### Testing
+
+
