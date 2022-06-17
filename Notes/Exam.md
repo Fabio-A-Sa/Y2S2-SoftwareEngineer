@@ -79,3 +79,17 @@ De acordo com o processo ágil, desenvolvido por Kent Beck nos anos 90. O planea
 
 ## 3 - Engenharia de Requisitos
 
+### 3.1 - Definição
+
+Processo de estudo das necessidades do cliente para definir o sistema e os requisitos. Um requisito é uma propriedade do sistema que resolve um determinado problema.
+
+Os problemas da Engenharia de Requisitos recaem sobretudo na escassa comunicação entre desenvolvedor-cliente, nos conhecimentos implícitos, no crescimento do produto não controlado e na mudança repentina nos requisitos.
+
+### 3.2 - Tipos de requisitos
+
+#### Funcionais
+
+
+
+#### Não funcionais
+
