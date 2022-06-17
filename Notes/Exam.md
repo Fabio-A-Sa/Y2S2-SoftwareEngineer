@@ -81,7 +81,7 @@ De acordo com o processo ágil, desenvolvido por Kent Beck nos anos 90. O planea
 
 ### 3.1 - Definição
 
-Processo de estudo das necessidades do cliente para definir o sistema e os requisitos. Um requisito é uma propriedade do sistema que resolve um determinado problema.
+Processo de estudo das necessidades do cliente para definir o sistema e os requisitos. Está de acordo com o SRS (Software Requirements Specification).Um requisito é uma propriedade do sistema que resolve um determinado problema.
 
 Os problemas da Engenharia de Requisitos recaem sobretudo na escassa comunicação entre desenvolvedor-cliente, nos conhecimentos implícitos, no crescimento do produto não controlado e na mudança repentina nos requisitos.
 
@@ -117,6 +117,7 @@ No formato "As an... I want to be able to... So that...". Devem seguir o formato
 
 Podem ser Throw-away (descartáveis, em papel ou computador), para ver os requisitos mais do que a implementação; ou Evolutionary, para um desenvolvimento rápido testando as funcionalidades da framework que vai ser usada com forte conecção end-user.
 
+#### Entrevistas
 
-
+Podem ser abertas / não estruturadas, quando várias etapas ainda têm de ser exploradas, ou fechadas, com uma lista de questões. A maior parte são mistas.
 
