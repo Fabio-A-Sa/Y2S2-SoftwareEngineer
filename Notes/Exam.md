@@ -7,6 +7,7 @@
 3. Engenharia de Requisitos
 4. UML
 5. Arquitetura de Software
+6. Software Project Management
 
 ## 1 - Introdução e História
 
@@ -166,4 +167,14 @@ Os nós são recursos computacionais onde os artefatos podem ser implantados. S�
 #### Package Diagrams
 
 Os mais parecidos com o UML tradicional, embora as classes sejam agora packages que se incluem e generalizam. 
+
+## 6 - Software Project Management
+
+### The Iron Triangle
+
+1. Recursos
+2. Scope
+3. Time
+
+É impossível fixar os 3 componentes. O scope é o elemento mais importante a controlar, pois normalmente o tempo e os recursos (team) são pré-definidos. A qualidade é o elemento central mas por ser inquantificável não é apresentada no esquema.
 
