@@ -190,3 +190,10 @@ Em cada Issue, colocar o user storie correspondente, o mockup da aplicação, qu
 
 ## 7 - Verification & Validation
 
+Verificação (estamos a construir o correcto produto? Satisfaz as necessidades do cliente? Cumpre os requisitos?) e validação (através de testes).
+
+1. Técnicas Estáticas: entrevistas, verificação formal;
+2. Técnicas Dinâmicas: software testing, simulação;
+
+As reviews / inspeções têm a vantagem de poderem ser feitas com qualquer artefacto e não só com o código, como é feito com os testes e o debug é feito de imediato.
+
