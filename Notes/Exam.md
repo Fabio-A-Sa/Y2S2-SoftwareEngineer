@@ -8,6 +8,7 @@
 4. UML
 5. Arquitetura de Software
 6. Github Projects
+7. Validation & Verification
 
 ## 1 - Introdução e História
 
@@ -186,3 +187,6 @@ Conceitos importantes a saber:
 - Done: as features já implementadas e testadas;
 
 Em cada Issue, colocar o user storie correspondente, o mockup da aplicação, quem está encarregue de implementar a feature, o esforço (medido em números de camisolas) e a importância/prioridades (medida no sistema MoSCoW). A maior parte através das labels.
+
+## 7 - Verification & Validation
+
