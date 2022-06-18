@@ -145,3 +145,23 @@ Há três camadas do design de software:
 - Código, com algoritmos e estruturas de dados;
 - Executáveis, com stack, registos, máquinas de baixo nível;
 
+### 5.1 - Padrões de arquitetura
+
+1. MVC;
+2. Pipes and Filters;
+3. Por camadas (strict ou relaxed);
+4. Repositório;
+
+### 5.2 - Diagramas
+
+#### Component Diagrams
+
+
+
+#### Deployment Diagrams
+
+
+
+#### Package Diagrams
+
+
