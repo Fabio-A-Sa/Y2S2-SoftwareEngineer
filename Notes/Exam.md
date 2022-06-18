@@ -139,15 +139,15 @@ Usados para capturar requisitos, organizar o vocabulário, às vezes partido em 
 
 ### 4.3 - Sequence Diagram
 
-
+Através de mensagens e de uma linha do tempo. Interação entre objectos.
 
 ### 4.4 - State Machine Diagram
 
-
+Implementação de uma máquina de estados do sistema. Há um estado inicial, eventos e um ou mais estados finais / de aceitação.
 
 ### 4.5 - Activity Diagram
 
-
+Esclarece etapas do processamento do sistema.
 
 ## 5 - Arquitetura de Software
 
