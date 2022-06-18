@@ -156,12 +156,14 @@ Há três camadas do design de software:
 
 #### Component Diagrams
 
-
+Um componente representa um módulo do sistema (exemplo no Flutter: os seus plug-ins, bibliotecas, executáveis...).
+Os componentes são interligados com *interfaces*, como uma API. As dependências entre componentes traduzem também o comportamento quando são utilizadas em conjunto.
 
 #### Deployment Diagrams
 
-
+Os nós são recursos computacionais onde os artefatos podem ser implantados. São conectados por associações de comunicação, podem ser representados por tipo ou instância e ter atributos, métodos e ícones identificativos.
 
 #### Package Diagrams
 
+Os mais parecidos com o UML tradicional, embora as classes sejam agora packages que se incluem e generalizam. 
 
