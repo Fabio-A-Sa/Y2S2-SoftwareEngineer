@@ -137,6 +137,18 @@ Especifica o contexto do sistema, o propósito do sistema e capturar os requisit
 
 Usados para capturar requisitos, organizar o vocabulário, às vezes partido em packages, classes e interfaces.
 
+### 4.3 - Sequence Diagram
+
+
+
+### 4.4 - State Machine Diagram
+
+
+
+### 4.5 - Activity Diagram
+
+
+
 ## 5 - Arquitetura de Software
 
 Controla a complexidade e organização do sistema (em escala e em tecnologia), garante os requisitos não funcionais e assegurar a qualidade (tradeoff, memória vs. velocidade). Usa componentes ligados por conectores ligados por conectores (back-end e front-end por exemplo). Todos os componentes da arquitetura devem ter em conta o custo, materiais, escala, logevidade e robustez a adaptações futuras.
@@ -196,4 +208,3 @@ Verificação (estamos a construir o correcto produto? Satisfaz as necessidades 
 2. Técnicas Dinâmicas: software testing, simulação;
 
 As reviews / inspeções têm a vantagem de poderem ser feitas com qualquer artefacto e não só com o código, como é feito com os testes e o debug é feito de imediato.
-
