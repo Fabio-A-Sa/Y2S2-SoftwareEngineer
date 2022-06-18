@@ -9,6 +9,7 @@
 5. Arquitetura de Software
 6. Github Projects
 7. Validation & Verification
+8. Flutter
 
 ## 1 - Introdução e História
 
@@ -139,7 +140,7 @@ Usados para capturar requisitos, organizar o vocabulário, às vezes partido em 
 
 ### 4.3 - Sequence Diagram
 
-Através de mensagens e de uma linha do tempo. Interação entre objectos.
+Através de mensagens e de uma linha do tempo (lifetime). Interação entre objectos.
 
 ### 4.4 - State Machine Diagram
 
@@ -208,3 +209,7 @@ Verificação (estamos a construir o correcto produto? Satisfaz as necessidades 
 2. Técnicas Dinâmicas: software testing, simulação;
 
 As reviews / inspeções têm a vantagem de poderem ser feitas com qualquer artefacto e não só com o código, como é feito com os testes e o debug é feito de imediato.
+
+## 8 - Flutter
+
+Através do Android Studio e da linguagem Dart, idealizada pela Google. Os Widgets podem ser stateless ou statefull.
