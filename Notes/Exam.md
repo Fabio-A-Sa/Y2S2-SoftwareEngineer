@@ -178,5 +178,11 @@ Os mais parecidos com o UML tradicional, embora as classes sejam agora packages 
 
 ## 6 - Github Projects
 
+Conceitos importantes a saber:
 
+- Product Backlog: columa que contém todas as features ainda não implementadas;
+- Iteration Backlog: as features a implementar numa iteração;
+- In Progress: o que está a ser feito no momento;
+- Done: as features já implementadas e testadas;
 
+Em cada Issue, colocar o user storie correspondente, o mockup da aplicação, quem está encarregue de implementar a feature, o esforço (medido em números de camisolas) e a importância/prioridades (medida no sistema MoSCoW). A maior parte através das labels.
