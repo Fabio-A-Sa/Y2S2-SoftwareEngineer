@@ -19,7 +19,7 @@ Notes that I take during theoretical lectures in Markdown <br>
 ### KahooTime
 A fun and practical way to review the knowledge acquired in theoretical classes. <br>
 
-### Project (Grade: 19.6/20)
+### Project "Uni++" (Grade: 19.6/20)
 Uni++ is an extension of the well-known [UNI](https://github.com/NIAEFEUP/project-schrodinger) application, created throughout the semester through agile processes and software engineering metrics.
 
 Members:
