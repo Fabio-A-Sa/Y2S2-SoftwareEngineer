@@ -1,6 +1,6 @@
 # KahooTime - Personal Project
 
-Uma forma divertida e prática de rever os conhecimentos adquiridos nas aulas teóricas.
+Uma forma divertida e prática de rever os conhecimentos adquiridos nas aulas teóricas. (Incompleto)
 
 Usando:
 
